@@ -5,17 +5,13 @@ description:
   AI Architect in the making
   <br>
   <br>
-  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="pdf/resume.pdf">Resume</a> 
   <br>
-  <a href="https://www.linkedin.com/in/rakesh-malhotra/”>/LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/rakesh-malhotra/”>/LinkedIn</a> 
+  <br>
   <a href="https://github.com/ramalhot86">GitHub</a>
+  <br>
 
 show_downloads: true
-google_analytics:
- <br>   
-  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
-  Also handing the Big Data from real-time Ad call data.
-  Working with Qlik India as Senior Architect for Public Secotr Accounts.
-  <br>
-  </p
+
 theme: jekyll-theme-minimal
