@@ -1,6 +1,12 @@
 title: Rakesh Malhotra
 logo: /assets/img/Other Pic.jpeg
-description: AI Architect in the making
+description:
+  <p align="center">
+  AI Architect in the making
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/rakesh-malhotra/”>/LinkedIn</a> |
+  <a href="https://github.com/ramalhot86">GitHub</a>
+
 show_downloads: true
 google_analytics:
  <br>   
